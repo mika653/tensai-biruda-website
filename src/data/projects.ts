@@ -130,7 +130,7 @@ export const projects: Project[] = [
     description:
       'A premium retail fit-out for Helly Hansen at Glorieta Mall, one of Metro Manila\'s premier shopping destinations. The project showcases TBC\'s trade construction expertise — delivering a polished brand environment that elevates the in-store experience.',
     coverImage: '/images/projects/helly-hansen-glorieta/photo-1.jpg',
-    images: Array.from({ length: 8 }, (_, i) => `/images/projects/helly-hansen-glorieta/photo-${i + 1}.jpg`),
+    images: Array.from({ length: 17 }, (_, i) => `/images/projects/helly-hansen-glorieta/photo-${i + 1}.jpg`),
   },
   {
     title: 'Helly Hansen Shangri-La',
@@ -178,7 +178,7 @@ export const projects: Project[] = [
     description:
       'A full-scale office renovation for SPDA\'s Manila Liaison Office. TBC transformed the workspace into a professional, efficient environment — handling architectural, civil, and fit-out works to create a cohesive, brand-aligned office interior.',
     coverImage: '/images/projects/spda-renovation/photo-1.jpg',
-    images: Array.from({ length: 17 }, (_, i) => `/images/projects/spda-renovation/photo-${i + 1}.jpg`),
+    images: Array.from({ length: 8 }, (_, i) => `/images/projects/spda-renovation/photo-${i + 1}.jpg`),
   },
 ];
 
